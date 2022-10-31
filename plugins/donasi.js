@@ -9,7 +9,7 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage, 
 "productId": "5489299044451325",
-"title": `GRATIS`,
+"title": `DONASI? CHAT OWNER`,
 "description": `HALO BANG`,
 "currencyCode": "IDR",
 "bodyText": wm,
