@@ -54,7 +54,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Tasyaa&Shahh'
+global.author = 'Created By Tasyaa'
 global.namebot = 'L y n n 亥 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Tasyaa'
 global.media = 'https://telegra.ph/file/4378bbab58f5b8542e797.jpg'
