@@ -40,13 +40,13 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6283890585717', 'Tasyaa', true],
-['601151152380', 'Shahh', true]
+['601139095900', 'Tsyaa²', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62838308157159'
+global.nomorbot = '_'
 global.nomorown = '6283890585717'
-global.nomorown1 = '601151152380'
+global.nomorown1 = '601139095900'
 global.nomorown2 = '0'
 global.nomorwa = '0'
 
@@ -55,22 +55,22 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Tasyaa&Shahh'
-global.namebot = 'x-DeathBot 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Tasyaa&Shahh'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.namebot = 'L y n n 亥 𝐌𝐝'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Tasyaa'
+global.media = 'https://telegra.ph/file/4378bbab58f5b8542e797.jpg'
 global.watermark = wm
-global.wm2 = 'x-DeathBot 𝑴𝒅 '
+global.wm2 = 'L y n n 亥 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Sʜᴀʜ 𝐗 ᵀᴬˢʸᴬ`
 global.stickpack = 'Sʜᴀʜ 𝐗 ᵀᴬˢʸᴬ'
-global.stickauth = `© x-DeathBot MD`
+global.stickauth = `© L y n n 亥 MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'ᵀᴬˢʸᴬ'
-global.nameown2 = 'Sʜᴀʜ'
+global.nameown2 = 'ᵀᴬˢʸᴬ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ'
@@ -79,7 +79,7 @@ global.lynk = 'https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = '_'
 global.sgh = '_' //github
-global.sgc = 'https://chat.whatsapp.com/HJKg06d9uw90oOXxwHFuER' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/JvJynxPPUr77QaB6iL25Ed' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ'
 
